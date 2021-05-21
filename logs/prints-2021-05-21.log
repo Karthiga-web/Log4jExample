@@ -1,0 +1,8 @@
+10:57:50.889 [main] DEBUG beta.Demo1 - Setting chrome driver property
+10:57:52.783 [main] INFO  beta.Demo1 - Window Maximized
+10:57:52.783 [main] DEBUG beta.Demo1 - Now hitting Amazon server
+10:57:54.289 [main] INFO  beta.Demo1 - Landed on amazon home page
+10:57:55.899 [main] DEBUG beta.Demo1 - Getting the frames count
+10:57:55.928 [main] INFO  beta.Demo1 - Frames count retreived
+10:57:55.951 [main] INFO  beta.Demo1 - Successfully switched to frame
+10:57:55.951 [main] DEBUG beta.Demo1 - Identifying Draggable objects
